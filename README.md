@@ -90,7 +90,6 @@ This approach allows for estimating gender distribution even when only aggregate
 
 I'm open to feedback, learning opportunities, and collaborations!
 
-- **LinkedIn**: [Abhijeet Punia](www.linkedin.com/in/abhijeet-punia-153a0b296)
 - **Email**: [abhijeetpunia03@gmail.com](mailto:abhijeetpunia03@gmail.com)
 
 ---
